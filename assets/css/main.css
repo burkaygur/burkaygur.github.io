@@ -25,6 +25,12 @@
     	font-size: 14px;
 	}
 
+	p.signature {
+    	width: 400px;
+    	text-align: right;
+    	font-size: 14px;
+	}
+
 	article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, section {
 		display: block;
 	}
